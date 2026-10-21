@@ -6,6 +6,8 @@ A lightweight, fully local AI chatbot built with **Ollama** and **Streamlit**. I
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black)
 
+📄 **[View the full project report with screenshots (PDF)](Simple_AI_Chatbot.pdf)**
+
 ---
 
 ## Table of Contents
@@ -165,4 +167,4 @@ Screenshots of these interactions are available in [Simple_AI_Chatbot.pdf](Simpl
 ## Author
 
 **YOUR NAME**
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: Navyashree K N
